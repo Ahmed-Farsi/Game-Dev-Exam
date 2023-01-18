@@ -1,2 +1,5 @@
-# Game-Dev-Exam
-This project will be an exam to get the Game Development Certification.
+Welkom bij ons repository.
+
+Bij de folder Documentatie vind je de testverslag, scrumbord 
+
+bij de folder Unitypakage vind je de package die je kunt downloaden.
