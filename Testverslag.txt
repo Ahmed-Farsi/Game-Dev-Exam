@@ -1,0 +1,18 @@
+TESTVERSLAG
+
+Wat ga je testen:
+Hoe ga je het testen:
+Wat is de uitkomst:
+
+19-1-2023
+Andy: ik heb de scripts aangemaakt genaamd playercontroller en ik probeerde het voertuig naar voren te laten bewegen maar is niet gelukt omdat ik ook niet veel tijd meer had. 
+      ik weet wel hoe ik dit moet verbeteren.
+
+25-1-2023
+Andy: ik ga test nu of ik de bike kan rotaten en wat sneller laten bewegen.
+      ik ga dit testen door mijn game te spelen en rond kijken.
+      de uitkomst is nu negeatief hij beweegt niet snel genoeg.
+
+      ik test nu of de camera de bike volgt.
+      ik ga dit testen door mijn game te starten en verder rijden.
+      de uitkomst is goed hij doet het.
