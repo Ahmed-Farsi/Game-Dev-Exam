@@ -16,3 +16,9 @@ Andy: ik ga test nu of ik de bike kan rotaten en wat sneller laten bewegen.
       ik test nu of de camera de bike volgt.
       ik ga dit testen door mijn game te starten en verder rijden.
       de uitkomst is goed hij doet het.
+
+26-1-2023
+Andy: ik test nu of de bike kan rotaten en dat de willen draaien.
+      ik ga dit doen door de game te starten en rond rijden.
+      de uitkomst is wel oke het rotaten van de bike doet het maar nog niet optimaal. 
+      de uitkomst dat de wielen draaien doet het ook maar werkt ook niet optimaal wat er gebeurt is dat hij wel draait maar niet goed gelinked is met de inputs.
