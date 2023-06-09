@@ -22,3 +22,52 @@ Andy: ik test nu of de bike kan rotaten en dat de willen draaien.
       ik ga dit doen door de game te starten en rond rijden.
       de uitkomst is wel oke het rotaten van de bike doet het maar nog niet optimaal. 
       de uitkomst dat de wielen draaien doet het ook maar werkt ook niet optimaal wat er gebeurt is dat hij wel draait maar niet goed gelinked is met de inputs.
+
+4-6-2023
+Andy: ik test nu of de moter voertuig soepel naar voren en naar achteren kan bewegen. ook test ik of de wielen van de voertuig naar de kant opdraaien met de input die je klikt en of de voertuig naar links en rechts kan bewegen.
+      ik ga dit testen door op play te klikken en dan vervolgens proberen om de voertuig naar voren en naar achteren bewegen en om de voertuig naar links en rechts te rotaten wanneer de voertuig in de lucht is.
+      de uitkomst van het rotaten is gelukt de voertuig kan soepelnaar links en rechts draaien.
+      de uitkomst om de voertuig naar voren en naar achteren bewegen is goed gegaan hij gaat nu soepel naar voren en naar achteren.
+      de uitkomst van de wielen is ook gelukt ze draaien de goede kant op met de input die je klikt.
+
+6-6-2023
+Andy: 
+
+Tester: Ahmed
+Datum: 2-6-2023
+
+Testscenario: Brandstofverbruik en tanken
+
+Doel van de test:
+Het doel van deze test was om de functionaliteit van het brandstofsysteem in mijn game te controleren, evenals de nieuwe functie van de achtergrondmuziek. Ik wilde controleren of de motor daadwerkelijk brandstof verbruikte en of spelers brandstof konden bijtanken door door het benzine-icoon te rijden. Daarnaast wilde ik testen of de achtergrondmuziek op de juiste manier werd afgespeeld en gestopt.
+
+Teststappen:
+a. Ik startte het spel en laadde een motorvoertuig.
+b. Vervolgens begon ik te rijden in de spelwereld.
+c. Om het brandstofverbruik te controleren, hield ik de brandstofmeter op het scherm in de gaten.
+d. Ik reed naar het benzine-icoon in de spelwereld en tankte bij door er doorheen te rijden.
+e. Na het bijtanken controleerde ik opnieuw de brandstofmeter om te zien of deze was aangepast aan de bijgetankte brandstof.
+f. Tijdens de testrit lette ik erop dat de brandstofmeter geleidelijk leger werd naarmate ik meer kilometers aflegde.
+g. Ik startte het spel opnieuw en controleerde de functionaliteit van de achtergrondmuziek door te luisteren of de muziek begon te spelen.
+h. Vervolgens ging ik terug naar het beginscherm door op een knop te klikken en controleerde ik of de muziek werd gestopt en niet dubbel werd afgespeeld.
+
+Verwachte resultaten:
+a. Bij aanvang van de test zou de brandstofmeter een volle groene kleur moeten weergeven.
+b. Na het rijden door het benzine-icoon zou de brandstofmeter van kleur moeten veranderen naar geel of rood, wat aangeeft dat de brandstofhoeveelheid is afgenomen tot ongeveer de helft of bijna leeg.
+c. Tijdens het rijden met de motor zou de brandstofmeter langzaam rood moeten worden, wat aangeeft dat de brandstofhoeveelheid bijna leeg is.
+d. Het moet mogelijk zijn om herhaaldelijk bij te tanken en de brandstofmeter moet telkens worden aangepast aan de bijgetankte hoeveelheid brandstof.
+e. De achtergrondmuziek moet correct worden afgespeeld bij het starten van het spel en stoppen wanneer ik terugga naar het beginscherm.
+
+Resultaten:
+a. Bij aanvang van de test gaf de brandstofmeter een volle groene kleur aan.
+b. Tijdens de testrit kwam ik erachter dat de brandstofmeter te snel rood werd naarmate ik meer kilometers aflegde.
+c. Na het rijden door het benzine-icoon veranderde de kleur van de brandstofmeter naar geel, wat ongeveer de helft van de brandstofhoeveelheid is.
+d. Het bijtanken kon herhaaldelijk worden uitgevoerd en de brandstofmeter werd telkens aangepast aan de bijgetankte hoeveelheid brandstof.
+e. De achtergrondmuziek werd correct afgespeeld bij het starten van het spel.
+f. Echter, toen ik terugging naar het beginscherm door op een knop te klikken, speelde de muziek niet af en stopte deze niet, maar begon juist dubbel af te spelen.
+
+Opmerkingen:
+
+De snelheid waarmee de brandstofmeter leegloopt, moet mogelijk worden aangepast om realistischer te zijn.
+Het probleem van de achtergrondmuziek die dubbel wordt afgespeeld bij terugkeer naar het beginscherm moet worden opgelost.
+Zorg ervoor dat de muziek stopt wanneer het spel wordt verlaten of afgesloten.
